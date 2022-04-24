@@ -1,0 +1,58 @@
+name: youwork
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment: 
+  sdk: '>=2.16.2 <3.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  widgetbook: 2.0.5-beta
+  flutter_svg: ^1.0.3
+  auto_size_text: 3.0.0
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter: 
+  uses-material-design: true
+  assets: 
+    - packages/youwork/assets/images/vector.svg
+    - packages/youwork/assets/images/back.svg
+    - packages/youwork/assets/images/rectangle83.svg
+    - packages/youwork/assets/images/rectangle85.svg
+    - packages/youwork/assets/images/ellipse20.png
+    - packages/youwork/assets/images/rectangle114.png
+    - packages/youwork/assets/images/rectangle115.png
+    - packages/youwork/assets/images/rectangle116.png
+    - packages/youwork/assets/images/ellipse40.png
+    - packages/youwork/assets/images/rectangle118.svg
+    - packages/youwork/assets/images/add.svg
+    - packages/youwork/assets/images/shutdown.png
+    - packages/youwork/assets/images/line20.svg
+    - packages/youwork/assets/images/line21.svg
+    - packages/youwork/assets/images/line22.svg
+    - packages/youwork/assets/images/line23.svg
+    - packages/youwork/assets/images/line24.svg
+    - packages/youwork/assets/images/line25.svg
+    - packages/youwork/assets/images/placemarker.png
+    - packages/youwork/assets/images/creditcard.svg
+    - packages/youwork/assets/images/email.svg
+    - packages/youwork/assets/images/phone.svg
+    - packages/youwork/assets/images/customer.png
+    - packages/youwork/assets/images/edit.svg
+    - packages/youwork/assets/images/rectangle56.svg
+    - packages/youwork/assets/images/ellipse41.svg
+    - packages/youwork/assets/images/ellipse42.svg
+    - packages/youwork/assets/images/sphere.png
+    - packages/youwork/assets/images/settings.png
+    - packages/youwork/assets/images/profilepic.png
+    - packages/youwork/assets/images/keyboardbackspace.svg
+    - packages/youwork/assets/images/profile.svg
+    - packages/youwork/assets/images/chat.svg
+    - packages/youwork/assets/images/ellipse32.png
+    - packages/youwork/assets/images/search.svg
+    - packages/youwork/assets/images/home.svg
+    - packages/youwork/assets/images/ellipse45.svg
+    - packages/youwork/assets/images/ellipse46.svg
